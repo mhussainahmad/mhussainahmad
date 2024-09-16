@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hussain Ahmad</h1>
 <h3 align="center">A passionate Machine learning and deep learning engineer</h3>
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhussainahmad)](https://github.com/mhussainahmad/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhussainahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mhussainahmad" /> </p>
 
 <h3 align="left">Connect with me:</h3>
