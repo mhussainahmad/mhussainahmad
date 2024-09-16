@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hussain Ahmad</h1>
 <h3 align="center">A passionate Machine learning and deep learning engineer</h3>
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhussainahmad)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhussainahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mhussainahmad" /> </p>
 
 <h3 align="left">Connect with me:</h3>
