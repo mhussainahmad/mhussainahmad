@@ -55,14 +55,6 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
 </p>
-
----
-
-### 📈 GitHub Stats & Trends
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mhussainahmad/langs)](https://githubtrends.io)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mhussainahmad&show_icons=true&theme=default)
-
 ---
 
 <p align="center">
