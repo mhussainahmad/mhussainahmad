@@ -9,9 +9,7 @@ My research work is on real-time torque control, safety supervision and shared a
 | Project | What it is |
 |---|---|
 | [**gauntlet**](https://github.com/mhussainahmad/gauntlet) | Regression testing and failure analysis for learned robot policies. Runs a policy across seeded grids of perturbations (lighting, camera pose, clutter, latency, sensor corruption, dust, glare) on MuJoCo, PyBullet, Genesis or a numpy crop-row env, and reports where it fails, with confidence intervals and paired comparisons. On PyPI as [`gauntlet-robotics`](https://pypi.org/project/gauntlet-robotics/). |
-| [**faultdetection**](https://github.com/mhussainahmad/faultdetection) | Fault classification on the Tennessee Eastman Process benchmark with a self-gated hierarchical Transformer, gate-based sensor attribution, and a Transformer autoencoder for anomaly detection. |
-| [**ClassImbalanceAwareTransformer**](https://github.com/mhussainahmad/ClassImbalanceAwareTransformer) | Joint project with [@mibrahim76112](https://github.com/mibrahim76112), who wrote most of the code: imbalance-aware training (margin head, contrastive and class-centre losses, mixup) for 21-class TEP fault diagnosis. |
-| [**flux**](https://github.com/mhussainahmad/flux) | FP8-quantized FLUX.1-schnell inference pipeline for a GPU speed contest (RTX 4090). |
+| [**flux**](https://github.com/mhussainahmad/flux) | FP8-quantized FLUX.1-schnell inference pipeline, tuned for fast generation on an RTX 4090. |
 | [**Chicken-disease-classification-project**](https://github.com/mhussainahmad/Chicken-disease-classification-project) | End-to-end image classifier: DVC pipeline, VGG16 transfer learning, Flask serving, Docker and CI/CD. |
 | [**face_detection**](https://github.com/mhussainahmad/face_detection) / [**kivy-app**](https://github.com/mhussainahmad/kivy-app) | Siamese-network face verification, and a Kivy desktop app that runs it on a webcam. |
 
