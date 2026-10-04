@@ -4,7 +4,7 @@ ML and robotics engineer, four years across robot control, perception and model 
 
 My research work is on real-time torque control, safety supervision and shared autonomy for a 7-DoF manipulator (Kinova Gen3): a 1 kHz C++ controller on ros2_control, impedance control, a safety layer, payload estimation and a Genesis digital twin. That code is not public yet.
 
-### Selected public work
+### Public repos
 
 | Project | What it is |
 |---|---|
