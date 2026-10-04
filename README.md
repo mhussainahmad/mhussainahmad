@@ -13,7 +13,16 @@ My research work is on real-time torque control, safety supervision and shared a
 | [**Chicken-disease-classification-project**](https://github.com/mhussainahmad/Chicken-disease-classification-project) | End-to-end image classifier: DVC pipeline, VGG16 transfer learning, Flask serving, Docker and CI/CD. |
 | [**face_detection**](https://github.com/mhussainahmad/face_detection) / [**kivy-app**](https://github.com/mhussainahmad/kivy-app) | Siamese-network face verification, and a Kivy desktop app that runs it on a webcam. |
 
-Older repositories (2022–2023) are short learning projects in classical ML and notebooks.
+#### Classical ML
+
+| Project | What it is |
+|---|---|
+| [**Online-Payments-Fraud-Detection**](https://github.com/mhussainahmad/Online-Payments-Fraud-Detection-with-Machine-Learning) | Decision-tree classifier flagging fraudulent mobile-money transactions. |
+| [**Stock-price-LSTM**](https://github.com/mhussainahmad/Stock-price-LSTM) | Stock price forecasting with an LSTM. |
+| [**Future_Sales_Prediction**](https://github.com/mhussainahmad/Future_Sales_Prediction) | Sales prediction from ad spend across platforms. |
+| [**Waiter_Tips_Prediction**](https://github.com/mhussainahmad/Waiter_Tips_Prediction) | Linear regression predicting restaurant tips, with Plotly exploration. |
+| [**Pfizer-Vaccine-Sentiment-Analysis**](https://github.com/mhussainahmad/Pfizer-Vaccine-Sentiment-Analysis) | VADER sentiment scoring and word clouds on Pfizer vaccine tweets. |
+| [**winequality-prediction**](https://github.com/mhussainahmad/winequality-prediction) | ElasticNet on red wine quality, with a DVC pipeline, Flask serving and CI. |
 
 ### Experience
 
