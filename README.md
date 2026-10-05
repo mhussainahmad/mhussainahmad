@@ -2,7 +2,9 @@
 
 ML and robotics engineer, four years across robot control, perception and model inference. M.Sc. student in Mechanical Engineering (Robotics) at the University of Manitoba, Winnipeg; B.S. Mechanical Engineering, NUST.
 
-My research work is on real-time torque control, safety supervision and shared autonomy for a 7-DoF manipulator (Kinova Gen3): a 1 kHz C++ controller on ros2_control, impedance control, a safety layer, payload estimation and a Genesis digital twin. That code is not public yet.
+My research is markerless teleoperation of a 7-DoF manipulator (Kinova Gen3): RealSense and MediaPipe RGB-D perception at 100 Hz driving the arm in real time, with occlusion and dropout handling, gesture intent detection, a Genesis digital twin with payload estimation, and a 1 kHz C++ torque controller and safety layer underneath. That code is not public yet.
+
+I also built a causal audio-visual emotion recognition model for real-time streaming: 75.9% accuracy at 6 ms per step, distilled from an offline model (paper accepted at GLOBCER).
 
 ### Public repos
 
@@ -13,7 +15,8 @@ My research work is on real-time torque control, safety supervision and shared a
 | [**Chicken-disease-classification-project**](https://github.com/mhussainahmad/Chicken-disease-classification-project) | End-to-end image classifier: DVC pipeline, VGG16 transfer learning, Flask serving, Docker and CI/CD. |
 | [**face_detection**](https://github.com/mhussainahmad/face_detection) / [**kivy-app**](https://github.com/mhussainahmad/kivy-app) | Siamese-network face verification, and a Kivy desktop app that runs it on a webcam. |
 
-#### Classical ML
+<details>
+<summary>Classical ML projects</summary>
 
 | Project | What it is |
 |---|---|
@@ -24,10 +27,12 @@ My research work is on real-time torque control, safety supervision and shared a
 | [**Pfizer-Vaccine-Sentiment-Analysis**](https://github.com/mhussainahmad/Pfizer-Vaccine-Sentiment-Analysis) | VADER sentiment scoring and word clouds on Pfizer vaccine tweets. |
 | [**winequality-prediction**](https://github.com/mhussainahmad/winequality-prediction) | ElasticNet on red wine quality, with a DVC pipeline, Flask serving and CI. |
 
+</details>
+
 ### Experience
 
 - Research Assistant, Robot Control and Safety, University of Manitoba (2024–present)
-- Robotics Engineer, Teleworker AI (2026): scanning pipeline on a Unitree Go2
+- Robotics Engineer, Teleworker AI (2026): ROS 2 scanning pipeline on a Unitree Go2, running on the onboard NVIDIA Jetson Orin
 - ML Engineer, Wombo (2024): SDXL and FLUX inference optimization
 - Freelance ML Engineer (2022–2024)
 
